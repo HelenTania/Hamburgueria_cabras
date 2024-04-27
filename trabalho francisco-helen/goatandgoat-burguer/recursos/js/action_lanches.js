@@ -95,7 +95,6 @@ function listarProduto() {
       displayActionFailure(this.error);
     };
   }
-  */
 
 /*---------remove elementos do id modal_corpo-------*/
   function removerElemento(){

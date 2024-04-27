@@ -198,12 +198,12 @@ nav span{
 
 #menbro #menbros{
     display: flex;
-    flex-direction: row;
+    flex-direction: rows;
     flex-wrap: wrap;
     justify-content: center;
     background-color: black;
     width: 50%;
-    height: 560px;
+    height:60px;
 
 }
 
